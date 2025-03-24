@@ -1,0 +1,7 @@
+name = "mock-polymarket-worker"
+main = "index.js"
+compatibility_date = "2023-01-01"
+
+[vars]
+SUPABASE_URL = "https://fhsgapplusgkkkyssjhs.supabase.co"
+SUPABASE_SERVICE_ROLE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZoc2dhcHBsdXNna2treXNzamhzIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0Mjg1NjI0OCwiZXhwIjoyMDU4NDMyMjQ4fQ.XtI_1Zqh_3kOx8PaJzcCyNBeD0NrP37UcdUmvcYAgvc"
